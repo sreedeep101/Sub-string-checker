@@ -4,4 +4,4 @@ By using the "strstr" function in the
 header file 'string.h'.
 
  There is an error occurred in the first c code,
- so i corrected it in the new file.
+ so i deleted it and corrected it in the new file.
