@@ -3,5 +3,5 @@ of the sub string in the main string.
 By using the "strstr" function in the
 header file 'string.h'.
 
- There is an error occurred in the first c coad,
+ There is an error occurred in the first c code,
  so i corrected it in the new file.
